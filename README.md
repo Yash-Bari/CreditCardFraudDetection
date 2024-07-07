@@ -2,8 +2,8 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/credit-card-fraud-detection.git
-   cd credit-card-fraud-detection
+   git clone https://github.com/Yash-Bari/CreditCardFraudDetection
+   cd CreditCardFraudDetection
    ```
 
 2. Install the required libraries:
