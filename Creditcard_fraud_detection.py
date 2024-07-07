@@ -188,7 +188,19 @@ if st.sidebar.button("Train Models"):
 
         You can upload your own dataset or use the default one to see how different models perform on the task of fraud detection.
         """)
-
-        # Developer name
-        st.markdown("Developed by Yash Bari")
         st.balloons()
+
+# Add footer with developer credit
+st.markdown("""
+    <hr style="margin-top: 50px;">
+    <div style="text-align: center;">
+        <p>Developed with 💡 by <strong>Yash Bari</strong></p>
+                </div>
+    <style>
+        hr {
+            border: 0;
+            border-top: 1px solid #e1e1e1;
+        }
+    </style>
+""", unsafe_allow_html=True)
+
