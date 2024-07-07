@@ -11,8 +11,6 @@
    pip install -r requirements.txt
    ```
 
-3. Save the script as `fraud_detection_app.py`.
-
 ### Running the App
 
 1. Run the Streamlit app:
