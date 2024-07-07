@@ -2,7 +2,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Yash-Bari/CreditCardFraudDetection
+   git clone https://github.com/Yash-Bari/CreditCardFraudDetection.git
    cd CreditCardFraudDetection
    ```
 
