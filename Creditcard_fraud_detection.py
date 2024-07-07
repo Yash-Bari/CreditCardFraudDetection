@@ -188,4 +188,7 @@ if st.sidebar.button("Train Models"):
 
         You can upload your own dataset or use the default one to see how different models perform on the task of fraud detection.
         """)
+
+        # Developer name
+        st.markdown("Developed by Yash Bari")
         st.balloons()
